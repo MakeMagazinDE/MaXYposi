@@ -17,7 +17,7 @@ Zum Öffnen und Bearbeiten der CAD-Datei benötigen Sie das kostenlose [Designsp
 - 1 Phenolharz- oder HPL-Kompaktplatte 120 x 120 mm, 6 mm dick
 - 4 [Gehäuselager Igus](https://www.igus.de/wpck/2003/DryLin_W_Doppelschiene) WJ200UM-01-10 (Standard) oder WJUME-01-10 (einstellbares Spiel)
 - 4 Abstandsbolzen M3, 12 mm lang, Innen- und Außengewinde kurz oder 
-- 4 Distanzhülsen Kunststoff, 12 mm lang, plus 4 Schrauben M3x20
+- 4 Distanzhülsen Kunststoff, 12 mm lang (z.B. [Reichelt DK 12MM](https://www.reichelt.de/Distanzhuelsen-etc-/DK-12MM/3/index.html?ACTION=3&LA=446&ARTICLE=44733&GROUPID=7758&artnr=DK+12MM&SEARCH=DK%2B12mm) plus 4 Schrauben M3x20
 - 8 Schrauben M6 x 16, Innensechskant
 - 2 Schrauben M6 x 20, Innensechskant
 - 2 Muttern M6
@@ -59,7 +59,7 @@ Zum Öffnen und Bearbeiten der CAD-Datei benötigen Sie das kostenlose [Designsp
 - 4 Kotflügel-/Karosseriescheiben 6,4 x 20 mm
 - 2 Kugellager 606-2RS
 - 1 Abstandsröllchen 18 mm lang, 6,5 mm Innendurchmesser (z.B. Hornbach, Möbelbeschläge, ggf. zusammensetzen)
-- 4 Abstandsröllchen 18 mm lang, 3,5 mm Innendurchmesser (z.B. [DK18 von Reichelt](https://www.reichelt.de/?ACTION=3;ARTICLE=44736))
+- 4 Abstandsröllchen 18 mm lang (z.B. [DK 18MM von Reichelt](https://www.reichelt.de/?ACTION=3;ARTICLE=44736))
 - 2 Winkelbeschläge 30 x 60 x 60 mm, (z.B. Lux 492575, div. Baumärkte)
 - 20 Spanplattenschrauben Rundkopf 4 x 16 mm
 - 4 Spanplattenschrauben Rundkopf 3,5 x 35 mm
