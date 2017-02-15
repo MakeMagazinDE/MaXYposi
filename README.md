@@ -69,5 +69,5 @@ Zum Öffnen und Bearbeiten der CAD-Datei benötigen Sie das kostenlose [Designsp
 
 - 4 m Zahnriemen Profil GT2, 6mm breit, Meterware (3D-Druckerzubehör, div. Shops)
 - 2 Zahnriemenräder (Pulley) GT2-Profil, 20 Zähne, für 5-mm-Achse (3D-Druckerzubehör, div. Shops)
-- 2 Schrittmotoren Baugröße NEMA17, min. 1,5A Strangstrom, 5 mm Achsdurchmesser, z.B. ACT 17HS5425
+- 2 Schrittmotoren Baugröße NEMA17, min. 1,5A Strangstrom, 5 mm Achsdurchmesser, z.B. [ACT 17HS5425](http://www.act-motor.com/product/17hs_en.html)
 - 2 Mikroschalter [Marquardt 1050.0202](https://www.marquardt-shop.com/de/produkte/schalter/schnappschalter/1050/1050.0202.html) oder ähnlich, z.B. von [Reichelt](https://www.reichelt.de/?ACTION=3;ARTICLE=166855)
