@@ -15,7 +15,7 @@ Verwendet Kunststoff-Gleitlager der Fa. **[igus](http://www.igus.de)**. Bitte be
 - 1 Phenolharz- oder HPL-Kompaktplatte 120 x 120 mm, 6 mm dick
 - 1 m Zahnriemen GT2, 6 mm breit
 - 1 Zahnriemenrad (Pulley) GT2, für 5-mm-Welle
-- 4 Gehäuselager Igus  WJ200UM-01-10 (Standard) oder WJUME-01-10 (einstellbares Spiel)
+- 4 [Gehäuselager Igus](https://www.igus.de/wpck/2003/DryLin_W_Doppelschiene) WJ200UM-01-10 (Standard) oder WJUME-01-10 (einstellbares Spiel)
 - 1 Schrittmotor ACT 17HS5425 oder ähnlich (NEMA17, 1,8 bis 2,5A Strangstrom, 5-mm-Welle)
 - 4 Abstandsbolzen M3, 12 mm lang, Innen- und Außengewinde kurz oder 
 - 4 Distanzhülsen Kunststoff, 12 mm lang, plus 4 Schrauben M3x20
@@ -32,9 +32,9 @@ Verwendet Kunststoff-Gleitlager der Fa. **[igus](http://www.igus.de)**. Bitte be
 
 ###Stückliste Y-Traverse
 
-- 1 Igus-Linearschiene W-10-40, 500 mm lang
-- 2  Phenolharz- oder HPL-Kompaktplatten 150 x 70 mm, 6 mm dick
-- 4 Gehäuselager Igus  WJ200UM-01-10 oder optional 4 Hybridlagerlager Igus  WWJRM-01-10 (mit zusätzlichen Rollen)
+- 1 [Igus-Linearschiene W-10-40](https://www.igus.de/wpck/2003/DryLin_W_Doppelschiene), 500 mm lang
+- 2 Phenolharz- oder HPL-Kompaktplatten 150 x 70 mm, 6 mm dick
+- 4 [Gehäuselager Igus](https://www.igus.de/wpck/2003/DryLin_W_Doppelschiene) WJ200UM-01-10 oder optional 4 Hybridlagerlager Igus  WWJRM-01-10 (mit zusätzlichen Rollen)
 - 6 Schrauben M6 x 16, Innensechskant
 - 6 Schrauben M6 x 20, Innensechskant
 - 4 Schrauben M6 x 20, Innensechskant, flacher Kopf
@@ -47,7 +47,7 @@ Verwendet Kunststoff-Gleitlager der Fa. **[igus](http://www.igus.de)**. Bitte be
 
 ###Stückliste Grundplatte
 
-- 2 Igus-Linearschienen W-10, 500 mm lang
+- 2 [Igus-Linearschienen W-10](https://www.igus.de/wpck/2002/DryLin_W_Einzelschiene_rund), 500 mm lang
 - 1 Phenolharz- oder HPL-Kompaktplatte 100 x 70 mm, 6 mm dick (z.B. Hornbach)
 - 6 Schrauben M6 x 16, Innensechskant
 - 6 Schrauben M6 x 20, Innensechskant
