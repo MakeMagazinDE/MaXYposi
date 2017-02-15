@@ -48,6 +48,8 @@ Zum Öffnen und Bearbeiten der CAD-Datei benötigen Sie das kostenlose [Designsp
 
 - 2 [Igus-Linearschienen W-10](https://www.igus.de/wpck/2002/DryLin_W_Einzelschiene_rund), 500 mm lang
 - 1 Phenolharz- oder HPL-Kompaktplatte 100 x 70 mm, 6 mm dick (z.B. Hornbach)
+- 1 MDF- oder Multiplex-Siebdruckplatte, 60 x 60 cm, 22 mm dick
+- 2 MDF- oder Multiplex-Siebdruckplatten, 60 x 10 cm, 22 mm dick (Aufstockung für mehr Z-Durchlasshöhe nach Bedarf)
 - 6 Schrauben M6 x 16, Innensechskant
 - 6 Schrauben M6 x 20, Innensechskant
 - 4 Schrauben M6 x 20, Innensechskant, flacher Kopf
@@ -62,8 +64,6 @@ Zum Öffnen und Bearbeiten der CAD-Datei benötigen Sie das kostenlose [Designsp
 - 20 Spanplattenschrauben Rundkopf 4 x 16 mm
 - 4 Spanplattenschrauben Rundkopf 3,5 x 35 mm
 - 8 Spanplattenschrauben Senkkopf 3,5 x 40 mm
-- 1 MDF- oder Multiplex-Siebdruckplatte, 60 x 60 cm, 22 mm dick
-- 2 MDF- oder Multiplex-Siebdruckplatte, 60 x 10 cm, 22 mm dick (Aufstockung für mehr Z-Durchlasshöhe nach Bedarf)
 
 ###Sonstiges
 
