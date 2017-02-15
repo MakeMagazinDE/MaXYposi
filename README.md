@@ -12,23 +12,23 @@ Verwendet Kunststoff-Gleitlager der Fa. **[igus](http://www.igus.de)**. Bitte be
 
 ###Stückliste X-Schlitten
 
-1 Phenolharz- oder HPL-Kompaktplatte 120 x 120 mm, 6 mm dick
-1 m Zahnriemen GT2, 6 mm breit
-1 Zahnriemenrad (Pulley) GT2, für 5-mm-Welle
-4 Gehäuselager Igus  WJ200UM-01-10 (Standard) oder WJUME-01-10 (einstellbares Spiel)
-1 Schrittmotor ACT 17HS5425 oder ähnlich (NEMA17, 1,8 bis 2,5A Strangstrom, 5-mm-Welle)
-4 Abstandsbolzen M3, 12 mm lang, Innen- und Außengewinde kurz oder 
-4 Distanzhülsen Kunststoff, 12 mm lang, plus 4 Schrauben M3x20
-8 Schrauben M6 x 16, Innensechskant
-2 Schrauben M6 x 20, Innensechskant
-2 Muttern M6
-4 Federscheiben DIN 137, M6
-4 Kotflügel-/Karosseriescheiben 6,4 x 20 mm
-2 Aluminium-Vierkantstab, Abschnitte 40 mm lang
-3 Schrauben M4 x 25
-3 Muttern M4
-3 Zahnscheiben (Fächerscheiben), M4
-2 Kugellager 606-2RS (z.B. [EKugellager](https://www.ekugellager.de) oder [Kugellager-Express](https://www.kugellager-express.de))
+- 1 Phenolharz- oder HPL-Kompaktplatte 120 x 120 mm, 6 mm dick
+- 1 m Zahnriemen GT2, 6 mm breit
+- 1 Zahnriemenrad (Pulley) GT2, für 5-mm-Welle
+- 4 Gehäuselager Igus  WJ200UM-01-10 (Standard) oder WJUME-01-10 (einstellbares Spiel)
+- 1 Schrittmotor ACT 17HS5425 oder ähnlich (NEMA17, 1,8 bis 2,5A Strangstrom, 5-mm-Welle)
+- 4 Abstandsbolzen M3, 12 mm lang, Innen- und Außengewinde kurz oder 
+- 4 Distanzhülsen Kunststoff, 12 mm lang, plus 4 Schrauben M3x20
+- 8 Schrauben M6 x 16, Innensechskant
+- 2 Schrauben M6 x 20, Innensechskant
+- 2 Muttern M6
+- 4 Federscheiben DIN 137, M6
+- 4 Kotflügel-/Karosseriescheiben 6,4 x 20 mm
+- 2 Aluminium-Vierkantstab, Abschnitte 40 mm lang
+- 3 Schrauben M4 x 25
+- 3 Muttern M4
+- 3 Zahnscheiben (Fächerscheiben), M4
+- 2 Kugellager 606-2RS (z.B. [EKugellager](https://www.ekugellager.de) oder [Kugellager-Express](https://www.kugellager-express.de))
 
 ###Stückliste Y-Traverse
 
