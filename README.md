@@ -23,7 +23,7 @@ Zum Öffnen und Bearbeiten der CAD-Datei benötigen Sie das kostenlose [Designsp
 - 2 Muttern M6
 - 4 Federscheiben DIN 137, M6
 - 4 Kotflügel-/Karosseriescheiben 6,4 x 20 mm
-- 2 Aluminium-Vierkantstab, Abschnitte 40 mm lang
+- 1 Aluminium-Vierkantstab 10 x 10 mm, insg. 4 Abschnitte je 40 mm lang
 - 3 Schrauben M4 x 25
 - 3 Muttern M4
 - 3 Zahnscheiben (Fächerscheiben), M4
@@ -71,6 +71,3 @@ Zum Öffnen und Bearbeiten der CAD-Datei benötigen Sie das kostenlose [Designsp
 - 2 Zahnriemenräder (Pulley) GT2-Profil, 20 Zähne, für 5-mm-Achse (3D-Druckerzubehör, div. Shops)
 - 2 Schrittmotoren Baugröße NEMA17, min. 1,5A Strangstrom, 5 mm Achsdurchmesser, z.B. ACT 17HS5425
 - 2 Mikroschalter [Marquardt 1050.0202](https://www.marquardt-shop.com/de/produkte/schalter/schnappschalter/1050/1050.0202.html) oder ähnlich, z.B. von [Reichelt](https://www.reichelt.de/?ACTION=3;ARTICLE=166855)
-
-
-
