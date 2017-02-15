@@ -10,7 +10,7 @@ Maker Media GmbH und c't, Heise Zeitschriften Verlag
 
 Verwendet Kunststoff-Gleitlager der Fa. **[igus](http://www.igus.de)**. Bitte beachten Sie unbedingt den Artikel in **[Make: 1/2017](https://shop.heise.de/katalog/make-01-2017)**.
 
-zum Öffnen und Bearbeiten der CAD-Datei benötigen Sie das kostenlose [Designspark Mechanical 2.0](https://www.rs-online.com/designspark/mechanical-software) von RS Components. Zur Ansicht der 3D-Vorschau genügt ein aktueller Acrobat Reader (ggf. 3D-Ansicht freischalten).
+Zum Öffnen und Bearbeiten der CAD-Datei benötigen Sie das kostenlose [Designspark Mechanical 2.0](https://www.rs-online.com/designspark/mechanical-software) von RS Components. Zur Ansicht der 3D-Vorschau genügt ein aktueller Acrobat Reader (ggf. 3D-Ansicht freischalten).
 
 ###Stückliste X-Schlitten
 
