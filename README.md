@@ -80,7 +80,7 @@ Das alternative Design **igus-portal-SLW1040_3.rsdoc** verwendet die fertig aufg
 
 Die Spindeln mit der Standard-Steigung TR10x2 lassen nur eine Geschwindigkeit von rund 1500 mm/m zu. Auf Anfrage baut igus die SLW-1040-Einheiten aber auch mit Steilgewindespindeln.
 
-- 2 Maedler #17023000 HTD-Zahnriemenräder Profil 3M, 30 Zähne
+- 2 Maedler #17023000 HTD-Zahnriemenräder Profil 3M, 30 Zähne (aufbohren auf 10 mm H7!)
 - HTD-Zahnriemen Neopren Profil 3M Breite 9mm Wirklänge 1125mm Zähnezahl 375, #17118000
 - 3 igus-Lineareinheiten SLW-1040, Länge 500 mm
 - 2 Aluminium-Rechteckrohr 60 x 60 mm, 74 mm lang
