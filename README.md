@@ -31,7 +31,7 @@ Zum Öffnen und Bearbeiten der CAD-Datei benötigen Sie das kostenlose [Designsp
 
 ###Stückliste Y-Traverse
 
-- 1 [Igus-Linearschiene W-10-40](https://www.igus.de/wpck/2003/DryLin_W_Doppelschiene), 500 mm lang
+- 1 [Igus-Linearschiene WS-10-40](https://www.igus.de/wpck/2003/DryLin_W_Doppelschiene), 500 mm lang
 - 2 Phenolharz- oder HPL-Kompaktplatten 150 x 70 mm, 6 mm dick
 - 4 [Gehäuselager Igus](https://www.igus.de/wpck/2003/DryLin_W_Doppelschiene) WJ200UM-01-10 oder optional 4 Hybridlagerlager Igus  WWJRM-01-10 (mit zusätzlichen Rollen)
 - 6 Schrauben M6 x 16, Innensechskant
@@ -46,7 +46,7 @@ Zum Öffnen und Bearbeiten der CAD-Datei benötigen Sie das kostenlose [Designsp
 
 ###Stückliste Grundplatte
 
-- 2 [Igus-Linearschienen W-10](https://www.igus.de/wpck/2002/DryLin_W_Einzelschiene_rund), 500 mm lang
+- 2 [Igus-Linearschienen WS-10](https://www.igus.de/wpck/2002/DryLin_W_Einzelschiene_rund), 500 mm lang
 - 1 Phenolharz- oder HPL-Kompaktplatte 100 x 70 mm, 6 mm dick (z.B. Hornbach)
 - 1 MDF- oder Multiplex-Siebdruckplatte, 60 x 60 cm, 22 mm dick
 - 2 MDF- oder Multiplex-Siebdruckplatten, 60 x 10 cm, 22 mm dick (Aufstockung für mehr Z-Durchlasshöhe nach Bedarf)
