@@ -75,3 +75,5 @@ Zum Öffnen und Bearbeiten der CAD-Datei benötigen Sie das kostenlose [Designsp
 ###Alternatives Design mit SLW-1040
 
 Das alternative Design **igus-portal-SLW1040_3.rsdoc** verwendet die fertig aufgebauten Lineareinheiten SLW-1040 von igus. Die Spindeln der X-Traverse werden hier von einem Zahnriemen synchron angetrieben (Zahnriemen und Zahnriemenscheiben von Mädler, www.maedler.de). Ein Aufbau mit zwei Schrittmotoren für die Y-Achse anstelle des Synchronriemens bewährte sich weniger, da es nach mehreren Ein- und Ausschaltvorgängen zu Asynchronitäten und damit zum Verkanten der Traverse kommen kann. Für dieses (deutlich teurere) Design sind lediglich zwei Träger aus 60 x 60 mm Alu-Rechteckrohr anzufertigen, die Abmessungen der Grundplatte bleiben gleich.
+
+Die Spindeln mit der Standard-Steigung TR10x2 lassen nur eine Geschwindigkeit von rund 1500 mm/m zu. Auf Anfrage baut igus die SLW-1040-Einheiten aber auch mit Steilgewindespindeln.
