@@ -91,4 +91,4 @@ Die Spindeln mit der Standard-Steigung TR10x2 lassen nur eine Geschwindigkeit vo
 
 ###GRBL Firmware für ATmega644
 
-Befindet sich zur Zeit in Entwicklung, ist aber schon in einem brauchbaren Statium. Sie finden die Firmware für unsere neue GRBL-Steuerung in unserem [Github-Repository MaXYposi_Grbl_644](https://github.com/heise/MaXYposi_Grbl_644) - näheres dort.
+Unser Steuerungs-Projekt für 4 Achsen und vielen I/Os befindet sich zur Zeit in Entwicklung, ist aber schon in einem brauchbaren Statium. Sie finden die Firmware für unsere neue GRBL-Steuerung in unserem [Github-Repository MaXYposi_Grbl_644](https://github.com/heise/MaXYposi_Grbl_644) - näheres dort.
