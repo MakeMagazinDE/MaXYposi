@@ -91,6 +91,6 @@ Die Spindeln mit der Standard-Steigung TR10x2 lassen nur eine Geschwindigkeit vo
 
 ###GRBL Firmware für ATmega644
 
-Unser Steuerungs-Projekt für 4 Achsen und vielen I/Os befindet sich zur Zeit in Entwicklung, ist aber schon in einem brauchbaren Statium. Sie finden die Firmware für unsere neue GRBL-Steuerung in unserem [Github-Repository MaXYposi_Grbl_644](https://github.com/heise/MaXYposi_Grbl_644) - näheres dort.
+Unser Steuerungs-Projekt für 4 Achsen und vielen I/Os befindet sich zur Zeit in Entwicklung, ist aber schon in einem brauchbaren Stadium. Sie finden die Firmware für unsere neue GRBL-Steuerung in unserem [Github-Repository MaXYposi_Grbl_644](https://github.com/heise/MaXYposi_Grbl_644) - näheres dort.
 
 Natürlich ist als Bahnsteuerung auch ein normaler Arduino-328 mit dem Standard-GRBL geeignet. Wir haben unser 644-GRBL allerdings auf 4 Achsen erweitert und 32 I/Os hinzugefügt, außerdem ein Handrad- und Joystick-Jog-Anschluss sowie eine Echtzeit-Positionsanzeige mit LDC 16x2 auf einem (optionalen) Bedienfeld. Dazu wird es eine Platine und einen Bausatz geben.
