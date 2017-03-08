@@ -88,3 +88,7 @@ Die Spindeln mit der Standard-Steigung TR10x2 lassen nur eine Geschwindigkeit vo
 - HTD-Zahnriemen Neopren Profil 3M Breite 9mm Wirklänge 1125mm Zähnezahl 375, #17118000
 - 3 igus-Lineareinheiten SLW-1040, Länge 500 mm
 - 2 Aluminium-Rechteckrohr 60 x 60 mm, 74 mm lang
+
+###GRBL Firmware für ATmega644
+
+Befindet sich zur Zeit in Entwicklung, ist aber schon in einem brauchbaren Statium. Sie finden die Firmware für unsere neue GRBL-Steuerung in unserem [Github-Repository MaXYposi_Grbl_644](https://github.com/heise/MaXYposi_Grbl_644) - näheres dort.
