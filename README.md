@@ -62,7 +62,7 @@ Die Y-Traverse kann auch mit der verstärkten extrahohen igus-Linearschiene WSX-
 - 4 Zahnscheiben (Fächerscheiben), M6
 - 4 Kotflügel-/Karosseriescheiben 6,4 x 20 mm
 - 2 Kugellager 606-2RS
-- 1 Abstandsröllchen 18 mm lang, 6,5 mm Innendurchmesser (z.B. Hornbach, Möbelbeschläge, ggf. zusammensetzen)
+- 1 Abstandsröllchen 24 mm lang, 6,5 mm Innendurchmesser (z.B. Hornbach, Möbelbeschläge, ggf. zusammensetzen)
 - 4 Abstandsröllchen 18 mm lang (z.B. [DK 18MM von Reichelt](https://www.reichelt.de/?ACTION=3;ARTICLE=44736))
 - 2 Winkelbeschläge 30 x 60 x 60 mm, (z.B. Lux 492575, div. Baumärkte)
 - 20 Spanplattenschrauben Rundkopf 4 x 16 mm
