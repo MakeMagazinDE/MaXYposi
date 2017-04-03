@@ -6,7 +6,7 @@ Maker Media GmbH und c't, Heise Zeitschriften Verlag
 
 # MaXYposi
 
-###Schneller 2D/3D-Positionierer und Portalroboter
+### Schneller 2D/3D-Positionierer und Portalroboter
 
 ![Picture](https://github.com/heise/MaXYposi/blob/master/maxyposi.JPG)
 
@@ -14,7 +14,7 @@ Verwendet Kunststoff-Gleitlager der Fa. **[igus](http://www.igus.de)**. Bitte be
 
 Zum Öffnen und Bearbeiten der CAD-Datei benötigen Sie das kostenlose [Designspark Mechanical 2.0](https://www.rs-online.com/designspark/mechanical-software) von RS Components. Zur Ansicht der 3D-Vorschau ist ein aktueller Acrobat Reader (ggf. 3D-Ansicht freischalten) nötig, die Vorschau im Gthub-Browser funktioniert nicht!
 
-###Stückliste X-Schlitten
+### Stückliste X-Schlitten
 
 - 1 Phenolharz- oder HPL-Kompaktplatte 120 x 120 mm, 6 mm dick
 - 4 [Gehäuselager Igus](https://www.igus.de/wpck/2003/DryLin_W_Doppelschiene) WJ200UM-01-10 (Standard) oder WJUME-01-10 (einstellbares Spiel)
@@ -31,7 +31,7 @@ Zum Öffnen und Bearbeiten der CAD-Datei benötigen Sie das kostenlose [Designsp
 - 3 Zahnscheiben (Fächerscheiben), M4
 - 2 Kugellager 606-2RS (z.B. [EKugellager](https://www.ekugellager.de) oder [Kugellager-Express](https://www.kugellager-express.de))
 
-###Stückliste Y-Traverse
+### Stückliste Y-Traverse
 
 - 1 [Igus-Linearschiene WS-10-40](https://www.igus.de/wpck/2003/DryLin_W_Doppelschiene), 500 mm lang
 - 2 Phenolharz- oder HPL-Kompaktplatten 150 x 70 mm, 6 mm dick
@@ -48,7 +48,7 @@ Zum Öffnen und Bearbeiten der CAD-Datei benötigen Sie das kostenlose [Designsp
 
 Die Y-Traverse kann auch mit der verstärkten extrahohen igus-Linearschiene WSX-10-40 aufgebaut werden, was bei Längen über 500 mm empfehlenswert ist. Die 6 Befestigungsschrauben sind dann 20 mm länger zu wählen. Die Maße der Trägerplatten ändern sich dadurch nicht.
 
-###Stückliste Grundplatte
+### Stückliste Grundplatte
 
 - 2 [Igus-Linearschienen WS-10](https://www.igus.de/wpck/2002/DryLin_W_Einzelschiene_rund), 500 mm lang
 - 1 Phenolharz- oder HPL-Kompaktplatte 100 x 70 mm, 6 mm dick (z.B. Hornbach)
@@ -73,14 +73,14 @@ Die Y-Traverse kann auch mit der verstärkten extrahohen igus-Linearschiene WSX-
 (1) Länge abhängig von Grundplattendicke und Auflage
 (2) Länge unkritisch
 
-###Sonstiges
+### Sonstiges
 
 - 4 m Zahnriemen Profil GT2, 6mm breit, Meterware (3D-Druckerzubehör, div. Shops)
 - 2 Zahnriemenräder (Pulley) GT2-Profil, 20 Zähne, für 5-mm-Achse (3D-Druckerzubehör, div. Shops)
 - 2 Schrittmotoren Baugröße NEMA17, min. 1,5A Strangstrom, 5 mm Achsdurchmesser, z.B. [ACT 17HS5425](http://www.act-motor.com/product/17hs_en.html)
 - 2 Mikroschalter [Marquardt 1050.0202](https://www.marquardt-shop.com/de/produkte/schalter/schnappschalter/1050/1050.0202.html) oder ähnlich, z.B. von [Reichelt](https://www.reichelt.de/?ACTION=3;ARTICLE=166855)
 
-###Alternatives Design mit SLW-1040
+### Alternatives Design mit SLW-1040
 
 Das alternative Design **igus-portal-SLW1040_3.rsdoc** verwendet die fertig aufgebauten Lineareinheiten SLW-1040 von igus. Die Spindeln der X-Traverse werden hier von einem Zahnriemen synchron angetrieben (Zahnriemen und Zahnriemenscheiben von Mädler, www.maedler.de). Ein Aufbau mit zwei Schrittmotoren für die Y-Achse anstelle des Synchronriemens bewährte sich weniger, da es nach mehreren Ein- und Ausschaltvorgängen zu Asynchronitäten und damit zum Verkanten der Traverse kommen kann. 
 
@@ -93,7 +93,7 @@ Die Spindeln mit der Standard-Steigung TR10x2 lassen nur eine Geschwindigkeit vo
 - 3 igus-Lineareinheiten SLW-1040, Länge 500 mm
 - 2 Aluminium-Rechteckprofil 60 x 60 mm, 74 mm lang
 
-###GRBL Firmware für ATmega644
+### GRBL Firmware für ATmega644
 
 Unser Steuerungs-Projekt für 4 Achsen und vielen I/Os befindet sich zur Zeit in Entwicklung, ist aber schon in einem brauchbaren Stadium. Sie finden die Firmware für unsere neue GRBL-Steuerung in unserem [Github-Repository MaXYposi_Grbl_644](https://github.com/heise/MaXYposi_Grbl_644) - näheres dort.
 
