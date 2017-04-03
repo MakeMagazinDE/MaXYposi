@@ -66,12 +66,12 @@ Die Y-Traverse kann auch mit der verstärkten extrahohen igus-Linearschiene WSX-
 - 4 Abstandsröllchen 18 mm lang (z.B. [DK 18MM von Reichelt](https://www.reichelt.de/?ACTION=3;ARTICLE=44736))
 - 2 Winkelbeschläge 30 x 60 x 60 mm, (z.B. Lux 492575, div. Baumärkte) (2)
 - 20 Spanplattenschrauben Rundkopf 4 x 16 mm (2)
-- 4 Spanplattenschrauben Rundkopf 3,5 x 35 mm
+- 4 Spanplattenschrauben Rundkopf 3,5 x 35 mm (2)
 - 8 Spanplattenschrauben Senkkopf 3,5 x 40 mm
 - 1 Einschlagmutter M6 mit Schraube M6 x 70, Innensechskant (1)
 
-(1) Länge abhängig von Grundplattendicke und Auflage
-(2) Länge unkritisch
+(1) Länge abhängig von Grundplattendicke und Auflage<p>
+(2) Länge unkritisch. Spax-Schrauben sollten nur so lang sein, dass sie auf der anderen Seite nicht herausgucken!
 
 ### Sonstiges
 
