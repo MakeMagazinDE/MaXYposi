@@ -35,10 +35,11 @@ Zum Öffnen und Bearbeiten der CAD-Datei benötigen Sie das kostenlose [Designsp
 
 - 1 [Igus-Linearschiene WS-10-40](https://www.igus.de/wpck/2003/DryLin_W_Doppelschiene), 500 mm lang
 - 2 Phenolharz- oder HPL-Kompaktplatten 150 x 70 mm, 6 mm dick
-- 4 [Gehäuselager Igus](https://www.igus.de/wpck/2003/DryLin_W_Doppelschiene) WJ200UM-01-10 oder optional 4 Hybridlagerlager Igus  WWJRM-01-10 (mit zusätzlichen Rollen)
+- 4 [Gehäuselager Igus](https://www.igus.de/wpck/2003/DryLin_W_Doppelschiene) WJ200UM-01-10 oder optional 4 Hybridlagerlager Igus WJRM-01-10 (mit zusätzlichen Rollen)
 - 6 Schrauben M6 x 16, Innensechskant
 - 6 Schrauben M6 x 25, Innensechskant
 - 4 Schrauben M6 x 20, Innensechskant, flacher Kopf
+- 2 Schrauben M6 x 50, Innensechskant (70 mm bei WSX-Profil)
 - 10 Muttern M6
 - 12 Federscheiben DIN 137, M6
 - 12 Zahnscheiben (Fächerscheiben), M6
