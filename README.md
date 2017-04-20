@@ -34,9 +34,7 @@ Zum Öffnen und Bearbeiten der CAD-Datei benötigen Sie das kostenlose [Designsp
 
 ### Stückliste XY-Traverse
 
-Bohren der Traverse (Igus WS-10-40-Profil) nach Zeichnung "Bohren_XY-Traverse.pdf". 
-
-- 1 [Igus-Linearschiene WS-10-40](https://www.igus.de/wpck/2003/DryLin_W_Doppelschiene), 500 mm lang
+- 1 [Igus-Linearschiene WS-10-40](https://www.igus.de/wpck/2003/DryLin_W_Doppelschiene), 500 mm lang, **nicht** vorgebohrt
 - 2 Phenolharz- oder HPL-Kompaktplatten 150 x 70 mm, 6 mm dick
 - 4 [Gehäuselager Igus](https://www.igus.de/wpck/2003/DryLin_W_Doppelschiene) WJ200UM-01-10 oder optional 4 Hybridlagerlager Igus WJRM-01-10 (mit zusätzlichen Rollen)
 - 6 Schrauben M6 x 16, Innensechskant
@@ -50,13 +48,13 @@ Bohren der Traverse (Igus WS-10-40-Profil) nach Zeichnung "Bohren_XY-Traverse.pd
 - 6 Kugellager 606-2RS
 - 2 Abstandsröllchen 18 mm lang, 6,5 mm Innendurchmesser (z.B. Hornbach, Möbelbeschläge, ggf. zusammensetzen)
 
-Die Traverse kann auch mit der verstärkten extrahohen igus-Linearschiene WSX-10-40 aufgebaut werden, was bei Längen über 500 mm empfehlenswert ist. Die 6 Befestigungsschrauben sind dann 20 mm länger zu wählen. Die Maße der Trägerplatten ändern sich dadurch nicht.
+Bohren der Traverse (Igus WS-10-40-Profil) nach Zeichnung "Bohren_XY-Traverse.pdf". Die Traverse kann auch mit der verstärkten extrahohen igus-Linearschiene WSX-10-40 aufgebaut werden, was bei Längen über 500 mm empfehlenswert ist. Die 6 Befestigungsschrauben sind dann 20 mm länger zu wählen. Die Maße der Trägerplatten ändern sich dadurch nicht.
 
 ### Stückliste Grundplatte
 
 Wir haben das Igus WS-10-Profil in der vorgebohrten Ausführung verwendet.
 
-- 2 [Igus-Linearschienen WS-10](https://www.igus.de/wpck/2002/DryLin_W_Einzelschiene_rund), 500 mm lang
+- 2 [Igus-Linearschienen WS-10](https://www.igus.de/wpck/2002/DryLin_W_Einzelschiene_rund), 500 mm lang, vorgebohrt
 - 1 Phenolharz- oder HPL-Kompaktplatte 100 x 70 mm, 6 mm dick (z.B. Hornbach)
 - 1 MDF- oder Multiplex-Siebdruckplatte, 60 x 60 cm, 22 mm dick
 - 2 MDF- oder Multiplex-Siebdruckplatten, 60 x 10 cm, 22 mm dick (Aufstockung für mehr Z-Durchlasshöhe nach Bedarf)
