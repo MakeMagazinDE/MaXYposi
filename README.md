@@ -14,6 +14,10 @@ Verwendet Kunststoff-Gleitlager der Fa. **[igus](http://www.igus.de)**. Bitte be
 
 Zum Öffnen und Bearbeiten der CAD-Datei benötigen Sie das kostenlose [Designspark Mechanical 2.0](https://www.rs-online.com/designspark/mechanical-software) von RS Components. Zur Ansicht der 3D-Vorschau ist ein aktueller Acrobat Reader (ggf. 3D-Ansicht freischalten) nötig, die Vorschau im Gthub-Browser funktioniert nicht! Zu den anzufertigenden Trägerplatten gibt es bemaßte Zeichnungen sowie Bohrschablonen als "normales" PDF.
 
+### Plan und Stückliste Z-Achse
+
+Der Plan für die Z-Achse ist wegen Maker-Faire-Vorbereitungen noch nicht ganz 
+fertig. Wir hoffen, ihn bis zum 26.04.2017 nachzuliefern. 
 
 ### Stückliste X-Schlitten
 
