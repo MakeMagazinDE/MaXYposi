@@ -12,7 +12,7 @@ Maker Media GmbH und c't, Heise Zeitschriften Verlag
 
 Verwendet Kunststoff-Gleitlager der Fa. **[igus](http://www.igus.de)**. Bitte beachten Sie unbedingt den Artikel in **[Make: 1/2017](https://shop.heise.de/katalog/make-1-2017)**.
 
-Zum Öffnen und Bearbeiten der CAD-Datei benötigen Sie das kostenlose [Designspark Mechanical 2.0](https://www.rs-online.com/designspark/mechanical-software) von RS Components. Zur Ansicht der 3D-Vorschau ist ein aktueller Acrobat Reader (ggf. 3D-Ansicht freischalten) nötig, die Vorschau im Gthub-Browser funktioniert nicht!
+Zum Öffnen und Bearbeiten der CAD-Datei benötigen Sie das kostenlose [Designspark Mechanical 2.0](https://www.rs-online.com/designspark/mechanical-software) von RS Components. Zur Ansicht der 3D-Vorschau ist ein aktueller Acrobat Reader (ggf. 3D-Ansicht freischalten) nötig, die Vorschau im Gthub-Browser funktioniert nicht! Zu den anzufertigenden Trägerplatten gibt es bemaßte Zeichnungen sowie Bohrschablonen als "normales" PDF.
 
 
 ### Stückliste X-Schlitten
@@ -50,7 +50,7 @@ Zum Öffnen und Bearbeiten der CAD-Datei benötigen Sie das kostenlose [Designsp
 
 Bohren der Traverse (Igus WS-10-40-Profil) nach Zeichnung "Bohren_XY-Traverse.pdf". Die Traverse kann auch mit der verstärkten extrahohen igus-Linearschiene WSX-10-40 aufgebaut werden, was bei Längen über 500 mm empfehlenswert ist. Die 6 Befestigungsschrauben sind dann 20 mm länger zu wählen. Die Maße der Trägerplatten ändern sich dadurch nicht. 
 
-Die Igus-Hybridlager WJRM-01-10 haben etwas andere Abmessungen als die Standardlager WJ200UM-01-10 (Lochabstand 22 statt 16 mm). Die zwei Bohrungen an den Enden der Trägerplatte sind hierfür um 6 mm nach außen zu verlegen; die Trägerplatte muss dann 162 x 70 mm groß sein.
+Die Igus-Hybridlager WJRM-01-10 haben etwas andere Abmessungen als die Standardlager WJ200UM-01-10 (Lochabstand 22 statt 16 mm). Die zwei Bohrungen an den Enden der Trägerplatte sind hierfür um 6 mm nach außen zu verlegen; die Trägerplatte muss dann 162 x 70 mm groß sein (siehe Bohrschablone "Bohren_Y-Platte_hybrid.pdf").
 
 ### Stückliste Grundplatte
 
