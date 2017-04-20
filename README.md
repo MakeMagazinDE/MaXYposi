@@ -36,7 +36,7 @@ Zum Öffnen und Bearbeiten der CAD-Datei benötigen Sie das kostenlose [Designsp
 
 - 1 [Igus-Linearschiene WS-10-40](https://www.igus.de/wpck/2003/DryLin_W_Doppelschiene), 500 mm lang, **nicht** vorgebohrt
 - 2 Phenolharz- oder HPL-Kompaktplatten 150 x 70 mm, 6 mm dick
-- 4 [Gehäuselager Igus](https://www.igus.de/wpck/2003/DryLin_W_Doppelschiene) WJ200UM-01-10 oder optional 4 Hybridlagerlager Igus WJRM-01-10 (mit zusätzlichen Rollen)
+- 4 [Gehäuselager Igus](https://www.igus.de/wpck/2003/DryLin_W_Doppelschiene) WJ200UM-01-10 oder optional 4 Hybridlagerlager Igus WJRM-01-10 (mit zusätzlichen Rollen) - siehe Anmerkung unten
 - 6 Schrauben M6 x 16, Innensechskant
 - 6 Schrauben M6 x 25, Innensechskant
 - 4 Schrauben M6 x 20, Innensechskant, flacher Kopf
@@ -48,7 +48,9 @@ Zum Öffnen und Bearbeiten der CAD-Datei benötigen Sie das kostenlose [Designsp
 - 6 Kugellager 606-2RS
 - 2 Abstandsröllchen 18 mm lang, 6,5 mm Innendurchmesser (z.B. Hornbach, Möbelbeschläge, ggf. zusammensetzen)
 
-Bohren der Traverse (Igus WS-10-40-Profil) nach Zeichnung "Bohren_XY-Traverse.pdf". Die Traverse kann auch mit der verstärkten extrahohen igus-Linearschiene WSX-10-40 aufgebaut werden, was bei Längen über 500 mm empfehlenswert ist. Die 6 Befestigungsschrauben sind dann 20 mm länger zu wählen. Die Maße der Trägerplatten ändern sich dadurch nicht.
+Bohren der Traverse (Igus WS-10-40-Profil) nach Zeichnung "Bohren_XY-Traverse.pdf". Die Traverse kann auch mit der verstärkten extrahohen igus-Linearschiene WSX-10-40 aufgebaut werden, was bei Längen über 500 mm empfehlenswert ist. Die 6 Befestigungsschrauben sind dann 20 mm länger zu wählen. Die Maße der Trägerplatten ändern sich dadurch nicht. 
+
+Die Igus-Hybridlager WJRM-01-10 haben etwas andere Abmessungen als die Standardlager WJ200UM-01-10 (Lochabstand 22 statt 16 mm). Die zwei Bohrungen an den Enden der Trägerplatte sind hierfür um 6 mm nach außen zu verlegen; die Trägerplatte muss dann 162 x 70 mm groß sein.
 
 ### Stückliste Grundplatte
 
