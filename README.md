@@ -14,6 +14,7 @@ Verwendet Kunststoff-Gleitlager der Fa. **[igus](http://www.igus.de)**. Bitte be
 
 Zum Öffnen und Bearbeiten der CAD-Datei benötigen Sie das kostenlose [Designspark Mechanical 2.0](https://www.rs-online.com/designspark/mechanical-software) von RS Components. Zur Ansicht der 3D-Vorschau ist ein aktueller Acrobat Reader (ggf. 3D-Ansicht freischalten) nötig, die Vorschau im Gthub-Browser funktioniert nicht!
 
+
 ### Stückliste X-Schlitten
 
 - 1 Phenolharz- oder HPL-Kompaktplatte 120 x 120 mm, 6 mm dick
@@ -31,7 +32,9 @@ Zum Öffnen und Bearbeiten der CAD-Datei benötigen Sie das kostenlose [Designsp
 - 3 Zahnscheiben (Fächerscheiben), M4
 - 2 Kugellager 606-2RS (z.B. [EKugellager](https://www.ekugellager.de) oder [Kugellager-Express](https://www.kugellager-express.de))
 
-### Stückliste Y-Traverse
+### Stückliste XY-Traverse
+
+Bohren der Traverse (Igus WS-10-40-Profil) nach Zeichnung "Bohren_XY-Traverse.pdf". 
 
 - 1 [Igus-Linearschiene WS-10-40](https://www.igus.de/wpck/2003/DryLin_W_Doppelschiene), 500 mm lang
 - 2 Phenolharz- oder HPL-Kompaktplatten 150 x 70 mm, 6 mm dick
@@ -47,9 +50,11 @@ Zum Öffnen und Bearbeiten der CAD-Datei benötigen Sie das kostenlose [Designsp
 - 6 Kugellager 606-2RS
 - 2 Abstandsröllchen 18 mm lang, 6,5 mm Innendurchmesser (z.B. Hornbach, Möbelbeschläge, ggf. zusammensetzen)
 
-Die Y-Traverse kann auch mit der verstärkten extrahohen igus-Linearschiene WSX-10-40 aufgebaut werden, was bei Längen über 500 mm empfehlenswert ist. Die 6 Befestigungsschrauben sind dann 20 mm länger zu wählen. Die Maße der Trägerplatten ändern sich dadurch nicht.
+Die Traverse kann auch mit der verstärkten extrahohen igus-Linearschiene WSX-10-40 aufgebaut werden, was bei Längen über 500 mm empfehlenswert ist. Die 6 Befestigungsschrauben sind dann 20 mm länger zu wählen. Die Maße der Trägerplatten ändern sich dadurch nicht.
 
 ### Stückliste Grundplatte
+
+Wir haben das Igus WS-10-Profil in der vorgebohrten Ausführung verwendet.
 
 - 2 [Igus-Linearschienen WS-10](https://www.igus.de/wpck/2002/DryLin_W_Einzelschiene_rund), 500 mm lang
 - 1 Phenolharz- oder HPL-Kompaktplatte 100 x 70 mm, 6 mm dick (z.B. Hornbach)
