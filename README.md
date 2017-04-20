@@ -17,7 +17,13 @@ Zum Öffnen und Bearbeiten der CAD-Datei benötigen Sie das kostenlose [Designsp
 ### Plan und Stückliste Z-Achse
 
 Der Plan für die Z-Achse ist wegen Maker-Faire-Vorbereitungen noch nicht ganz 
-fertig. Wir hoffen, ihn bis zum 26.04.2017 nachzuliefern. 
+fertig. In der Design-Spark-Zeichnung fehlen noch die Wellenkupplung 5mm/10mm, 
+Befestigungsbohrungen und die Bemaßung.
+
+- 1 Linearschlitten SLW-1040, komplett mit Endplatten und Gewindespindel TR10x2
+- 1 Aluminium-Rechteckprofil 40x40 mm, 74 mm lang, Wandstärke 2 mm
+
+Wir hoffen, die vollständigen Pläne bis zum 26.04.2017 nachzuliefern. 
 
 ### Stückliste X-Schlitten
 
