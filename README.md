@@ -10,7 +10,7 @@ Maker Media GmbH und c't, Heise Zeitschriften Verlag
 
 ![Picture](https://github.com/heise/MaXYposi/blob/master/maxyposi.JPG)
 
-Verwendet Kunststoff-Gleitlager der Fa. **[igus](http://www.igus.de)**. Bitte beachten Sie unbedingt den Artikel in **[Make: 1/2017](https://shop.heise.de/katalog/make-1-2017)**.
+Verwendet Kunststoff-Gleitlager der Fa. **[igus](http://www.igus.de)**. Bitte beachten Sie unbedingt den Artikel in **[Make: 1/2017](https://shop.heise.de/katalog/make-1-2017)** und unsere **[MaXYPosi-Projektseite](http://www.make-magazin.de/maxyposi)**.
 
 Zum Öffnen und Bearbeiten der CAD-Datei benötigen Sie das kostenlose [Designspark Mechanical 2.0](https://www.rs-online.com/designspark/mechanical-software) von RS Components. Zur Ansicht der 3D-Vorschau ist ein aktueller Acrobat Reader (ggf. 3D-Ansicht freischalten) nötig, die Vorschau im Gthub-Browser funktioniert nicht! Zu den anzufertigenden Trägerplatten gibt es bemaßte Zeichnungen sowie Bohrschablonen als "normales" PDF.
 
@@ -115,4 +115,8 @@ Die Spindeln mit der Standard-Steigung TR10x2 lassen nur eine Geschwindigkeit vo
 
 Unser Steuerungs-Projekt für 4 Achsen und vielen I/Os befindet sich zur Zeit in Entwicklung, ist aber schon in einem brauchbaren Stadium. Sie finden die Firmware für unsere neue GRBL-Steuerung in unserem [Github-Repository MaXYposi_Grbl_644](https://github.com/heise/MaXYposi_Grbl_644) - näheres dort.
 
-Natürlich ist als Bahnsteuerung auch ein normaler Arduino-328 mit dem Standard-GRBL geeignet. Wir haben unser 644-GRBL allerdings auf 4 Achsen erweitert und 32 I/Os hinzugefügt, außerdem ein Handrad- und Joystick-Jog-Anschluss sowie eine Echtzeit-Positionsanzeige mit LDC 16x2 auf einem (optionalen) Bedienfeld. Dazu wird es eine Platine und einen Bausatz geben.
+Natürlich ist als Bahnsteuerung auch ein normaler Arduino-328 mit dem Standard-GRBL geeignet. Wir haben unser 644-GRBL allerdings auf 4 Achsen erweitert und 32 I/Os hinzugefügt, außerdem ein Handrad- und Joystick-Jog-Anschluss sowie eine Echtzeit-Positionsanzeige mit LDC 16x2 auf einem (optionalen) Bedienfeld. 
+
+Zum Projekt wird es eine mit SMD-Teilen vorbestückte Platine geben, die 
+voraussichtlich Ende April 2017 lieferbar sein wird. Hinweise zur Bestellung finden Sie auf der
+[MaXYPosi-Projektseite](http://www.make-magazin.de/maxyposi).
