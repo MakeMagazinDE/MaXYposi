@@ -115,8 +115,9 @@ Die Spindeln mit der Standard-Steigung TR10x2 lassen nur eine Geschwindigkeit vo
 - 3 igus-Lineareinheiten SLW-1040, Länge 500 mm
 - 2 Aluminium-Rechteckprofil 60 x 60 mm, 74 mm lang
 
-### MaXYposi-SchrittmotorsteuerungL
+### MaXYposi-Schrittmotorsteuerung
+
+Natürlich ist als Bahnsteuerung auch ein normaler Arduino-328 mit dem Standard-GRBL geeignet. Wir haben unser 644-GRBL allerdings auf 4 Achsen erweitert und 32 I/Os hinzugefügt, außerdem ein Handrad- und Joystick-Jog-Anschluss sowie eine Echtzeit-Positionsanzeige mit LDC 16x2 auf einem (optionalen) Bedienfeld. 
 
 Unser auf GRBL basierendes Steuerungs-Projekt für 4 Achsen und vielen I/Os finden Sie in unserem [Github-Repository MaXYposi_Grbl_644](https://github.com/heise/MaXYposi_Grbl_644) - näheres dort.
 
-Natürlich ist als Bahnsteuerung auch ein normaler Arduino-328 mit dem Standard-GRBL geeignet. Wir haben unser 644-GRBL allerdings auf 4 Achsen erweitert und 32 I/Os hinzugefügt, außerdem ein Handrad- und Joystick-Jog-Anschluss sowie eine Echtzeit-Positionsanzeige mit LDC 16x2 auf einem (optionalen) Bedienfeld. 
