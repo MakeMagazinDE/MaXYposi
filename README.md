@@ -27,7 +27,7 @@ Befestigungsbohrungen und die Bemaßung.
 - 1 Linearschlitten SLW-1040, komplett mit Endplatten und Gewindespindel TR10x2
 - 1 Aluminium-Rechteckprofil 40x40 mm, 74 mm lang, Wandstärke 2 mm
 
-Wir hoffen, die vollständigen Pläne bis Ende April 2017 nachzuliefern. 
+Wir werden die vollständigen Pläne bis Ende April 2017 nachliefern. 
 
 ### Stückliste X-Schlitten
 
