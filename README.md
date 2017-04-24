@@ -10,11 +10,14 @@ Maker Media GmbH und c't, Heise Zeitschriften Verlag
 
 ![Picture](https://github.com/heise/MaXYposi/blob/master/maxyposi.JPG)
 
-Verwendet Kunststoff-Gleitlager der Fa. **[igus](http://www.igus.de)**. Bitte beachten Sie unbedingt den Artikel in **[Make: 1/2017](https://shop.heise.de/katalog/make-1-2017)**, unsere **[MaXYPosi-Projektseite](http://www.make-magazin.de/maxyposi)**, die ständig aktualisierte **[FAQ-Seite](https://heise.de/-3676050)** und das zugehörige Forum.
+Verwendet Kunststoff-Gleitlager der Fa. **[igus](http://www.igus.de)**. Bitte beachten Sie unbedingt 
 
-Zum Öffnen und Bearbeiten der CAD-Datei benötigen Sie das kostenlose [Designspark Mechanical 2.0](https://www.rs-online.com/designspark/mechanical-software) von RS Components. Zur Ansicht der 3D-Vorschau ist ein aktueller Acrobat Reader (ggf. 3D-Ansicht freischalten) nötig, die Vorschau im Gthub-Browser funktioniert nicht! Zu den anzufertigenden Trägerplatten gibt es bemaßte Zeichnungen sowie Bohrschablonen als "normales" PDF.
+- den Artikel in **[Make: 1/2017](https://shop.heise.de/katalog/make-1-2017)**
+- unsere **[MaXYPosi-Projektseite](http://www.make-magazin.de/maxyposi)**
+- die ständig aktualisierte **[FAQ-Seite](https://heise.de/-3676050)** und das zugehörige Forum.
 
-B
+Zum Öffnen und Bearbeiten der CAD-Datei benötigen Sie das kostenlose [Designspark Mechanical 2.0](https://www.rs-online.com/designspark/mechanical-software) von RS Components. Zur Ansicht der 3D-Vorschau ist ein aktueller Acrobat Reader (ggf. 3D-Ansicht freischalten) nötig, die Vorschau im Github-Browser funktioniert nicht! Zu den anzufertigenden Trägerplatten gibt es bemaßte Zeichnungen sowie Bohrschablonen als "normales" PDF.
+
 ### Plan und Stückliste Z-Achse
 
 Der Plan für die Z-Achse ist wegen Maker-Faire-Vorbereitungen noch nicht ganz 
@@ -24,7 +27,7 @@ Befestigungsbohrungen und die Bemaßung.
 - 1 Linearschlitten SLW-1040, komplett mit Endplatten und Gewindespindel TR10x2
 - 1 Aluminium-Rechteckprofil 40x40 mm, 74 mm lang, Wandstärke 2 mm
 
-Wir hoffen, die vollständigen Pläne bis zum 26.04.2017 nachzuliefern. 
+Wir hoffen, die vollständigen Pläne bis Ende April 2017 nachzuliefern. 
 
 ### Stückliste X-Schlitten
 
