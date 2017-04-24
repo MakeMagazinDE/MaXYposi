@@ -10,7 +10,7 @@ Maker Media GmbH und c't, Heise Zeitschriften Verlag
 
 ![Picture](https://github.com/heise/MaXYposi/blob/master/maxyposi.JPG)
 
-Verwendet Kunststoff-Gleitlager der Fa. **[igus](http://www.igus.de)**. Bitte beachten Sie unbedingt 
+Projekt für einen sehr leicht nachzubauenden Portalroboter, der je nach Werkzeug zum Bohren, Fräsen, Bestücken, Lasern oder Folienschneiden geeignet ist. Es verwendet Kunststoff-Gleitlager der Fa. **[igus](http://www.igus.de)**. Bitte beachten Sie unbedingt 
 
 - den Artikel in **[Make: 1/2017](https://shop.heise.de/katalog/make-1-2017)**
 - den Artikel in **[Make: 2/2017](https://shop.heise.de/katalog/make-2-2017)**
