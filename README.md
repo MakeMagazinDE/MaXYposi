@@ -22,14 +22,19 @@ Zum Öffnen und Bearbeiten der CAD-Datei benötigen Sie das kostenlose [Designsp
 
 ### Plan und Stückliste Z-Achse
 
-Der Plan für die Z-Achse ist wegen Maker-Faire-Vorbereitungen noch nicht ganz 
-fertig. In der Design-Spark-Zeichnung fehlen noch die Wellenkupplung 5mm/10mm, 
-Befestigungsbohrungen und die Bemaßung.
+Für die Ausführung der Z-Achse gibt es zwei Alternativen: Die erste besteht aus einer SLW-1040 von Igus mit 50 bis 100 mm Hub (je nach Bedarf) und einem Motor-Adapter. Dieser besteht aus einem 74 mm langen Alu-Rechteckprofil 40 x 60 mm, das nach Plan "igus-portal_Z-Achse_Maße.pdf" gebohrt wird. Im Prinzip wäre auch ein 40x40-Profil geeignet, dann wird es für die Befestigungsschrauben des Motors schon etwas eng.
 
 - 1 Linearschlitten SLW-1040, komplett mit Endplatten und Gewindespindel TR10x2
-- 1 Aluminium-Rechteckprofil 40x40 mm, 74 mm lang, Wandstärke 2 mm
+- 1 Aluminium-Rechteckprofil 40x40 bis 40x60 mm, 74 mm lang, Wandstärke 2 mm
+- 1 Wellenkupplung flexibel, 5mm/10mm (ebay/Amazon)
+- 1 Wellenhalter SH20 (für Befestigung von Proxon-Motoren)
 
-Wir werden die vollständigen Pläne bis Ende April 2017 nachliefern. 
+![Picture](https://github.com/heise/MaXYposi/blob/master/z_china.JPG)
+
+
+Die deutlich bequemere und billigere Variante ist eine kleine Z-Achse aus chinesischer Fertigung, die wir vor Kurzem entdeckten und die jetzt von verschiedenen Händlern auf ebay angeboten wird (Bild). Hierfür benötigen Sie nur stabile Befestigungswinkel und zur Aufnahme des Spindelmotors einen Halter für 20-mm-Stahlwellen (diverse CNC-Shops).
+
+
 
 ### Stückliste X-Schlitten
 
