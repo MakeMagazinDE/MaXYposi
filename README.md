@@ -29,10 +29,11 @@ Für die Ausführung der Z-Achse gibt es zwei Alternativen: Die erste besteht au
 - 1 Wellenkupplung flexibel, 5mm/10mm (ebay/Amazon)
 - 1 Wellenhalter SH20 (für Befestigung von Proxon-Motoren)
 
-![Picture](https://github.com/heise/MaXYposi/blob/master/z_china.JPG)
+![Picture](https://github.com/heise/MaXYposi/blob/master/z_china_k.JPG)
 
+Die deutlich bequemere und billigere Variante ist eine kleine Z-Achse aus chinesischer Fertigung, die wir vor kurzem entdeckten und die jetzt von verschiedenen Händlern auf ebay angeboten wird (Bild). Ein passender Schrittmotor ist bereits montiert. Einschließlich Versand kostet sie um 50 Euro. Hierfür benötigen Sie nur stabile Befestigungswinkel und zur Aufnahme des Spindelmotors einen Halter für 20-mm-Stahlwellen (diverse CNC-Shops).
 
-Die deutlich bequemere und billigere Variante ist eine kleine Z-Achse aus chinesischer Fertigung, die wir vor Kurzem entdeckten und die jetzt von verschiedenen Händlern auf ebay angeboten wird (Bild). Hierfür benötigen Sie nur stabile Befestigungswinkel und zur Aufnahme des Spindelmotors einen Halter für 20-mm-Stahlwellen (diverse CNC-Shops).
+Die Konstruktion erscheint uns ausreichend stabil, das Chassis besteht aus 3 mm starkem Edelstahl. Auf kleine Ungenauigkeiten hinsichtlich der Maßhaltigkeit und Rechtwinkligkeit muss man hierbei hinwegsehen.
 
 
 
