@@ -20,21 +20,22 @@ Projekt für einen sehr leicht nachzubauenden Portalroboter, der je nach Werkzeu
 
 Zum Öffnen und Bearbeiten der CAD-Datei benötigen Sie das kostenlose [Designspark Mechanical 2.0](https://www.rs-online.com/designspark/mechanical-software) von RS Components. Zur Ansicht der 3D-Vorschau ist ein aktueller Acrobat Reader (ggf. 3D-Ansicht freischalten) nötig, die Vorschau im Github-Browser funktioniert nicht! Zu den anzufertigenden Trägerplatten gibt es bemaßte Zeichnungen sowie Bohrschablonen als "normales" PDF.
 
+
 ### Plan und Stückliste Z-Achse
 
-Für die Ausführung der Z-Achse gibt es zwei Alternativen: Die erste besteht aus einer SLW-1040 von Igus mit 50 bis 100 mm Hub (je nach Bedarf) und einem Motor-Adapter. Dieser besteht aus einem 74 mm langen Alu-Rechteckprofil 40 x 60 mm, das nach Plan "igus-portal_Z-Achse_Maße.pdf" gebohrt wird. Im Prinzip wäre auch ein 40x40-Profil geeignet, dann wird es für die Befestigungsschrauben des Motors schon etwas eng.
+Für die Ausführung der Z-Achse gibt es zwei Alternativen: Die erste besteht aus einer SLW-1040 von Igus mit 50 bis 100 mm Hub (je nach Bedarf) und einem selbstgebauten Motor-Adapter. Dieser besteht aus einem 74 mm langen Alu-Rechteckprofil 40 x 60 mm, das nach Plan "igus-portal_Z-Achse_Maße.pdf" gebohrt wird. Im Prinzip wäre auch ein 40x40-Profil geeignet, dann wird es für die Befestigungsschrauben des Motors aber schon etwas eng.
 
 - 1 Linearschlitten SLW-1040, komplett mit Endplatten und Gewindespindel TR10x2
 - 1 Aluminium-Rechteckprofil 40x40 bis 40x60 mm, 74 mm lang, Wandstärke 2 mm
 - 1 Wellenkupplung flexibel, 5mm/10mm (ebay/Amazon)
 - 1 Wellenhalter SH20 (für Befestigung von Proxon-Motoren)
+- 1 Schrittmotor NEMA 17 mit 5-mm-Welle, 1,25A bis 2,5A Strangstrom (d.h. gleiche Ausführung wie X/Y-Achse)
 
 ![Picture](https://github.com/heise/MaXYposi/blob/master/z_china_k.JPG)
 
 Die deutlich bequemere und billigere Variante ist eine kleine Z-Achse aus chinesischer Fertigung, die wir vor kurzem entdeckten und die jetzt von verschiedenen Händlern auf ebay angeboten wird (Bild). Ein passender Schrittmotor ist bereits montiert. Einschließlich Versand kostet sie um 50 Euro. Hierfür benötigen Sie nur stabile Befestigungswinkel und zur Aufnahme des Spindelmotors einen Halter für 20-mm-Stahlwellen (diverse CNC-Shops).
 
 Die Konstruktion erscheint uns ausreichend stabil, das Chassis besteht aus 3 mm starkem Edelstahl. Auf kleine Ungenauigkeiten hinsichtlich der Maßhaltigkeit und Rechtwinkligkeit muss man hierbei hinwegsehen.
-
 
 
 ### Stückliste X-Schlitten
@@ -53,6 +54,7 @@ Die Konstruktion erscheint uns ausreichend stabil, das Chassis besteht aus 3 mm 
 - 3 Muttern M4
 - 3 Zahnscheiben (Fächerscheiben), M4
 - 2 Kugellager 606-2RS (z.B. [EKugellager](https://www.ekugellager.de) oder [Kugellager-Express](https://www.kugellager-express.de))
+
 
 ### Stückliste XY-Traverse
 
