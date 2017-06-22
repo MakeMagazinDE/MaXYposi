@@ -30,7 +30,7 @@ Es erleichter die Montage, wenn man die Befestigungslöcher auf beiden Seiten bo
 
 ![Picture](https://github.com/heise/MaXYposi/blob/master/z_06.JPG)
 
-Die Igus-Adapterplatte wird mit zwei M5-Schrauben am Motorträger befestigt. Das ist einfacher, als zwei kurze M6-Schrauben für die vorhandenen Gewinde hineinzufummeln - der Bauraum im 40er-Profil ist ja begrenzt.
+Die Igus-Adapterplatte wird mit zwei M5-Schrauben am Motorträger befestigt. Das ist einfacher, als zwei kurze M6-Schrauben für die vorhandenen Gewinde hineinzufummeln - der Bauraum im 40er-Profil ist ja begrenzt. Die fertige Z-Achse wird mit einem stabilen Alu-Winkel am MaXYposi-X-Schlitten befestigt. Es is empfehlenswert, die Konstruktion am oberen Ende noch mit einer Querstrebe abzustützen.
 
 ### Z-Achse aus China
 
