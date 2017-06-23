@@ -46,7 +46,7 @@ befestigt. Es is empfehlenswert, die Konstruktion am oberen Ende noch mit einer
 Querstrebe abzustützen.
 
 Abschließend muss man noch die Anzahl der Schritte pro Millimeter in den GRBL-
-Defaults eintragen. Die TR10-Spindel hat eine Steigung von 2 mm, bei Viertelschritt-Betrieb der Schrittmotor-Endstufe ist also (4*200)/2 = 400 für den Parameter $102 einzutragen.
+Defaults eintragen. Die TR10-Spindel der SLW-1040-Linearführung hat eine Steigung von 2 mm, bei Viertelschritt-Betrieb der Schrittmotor-Endstufe ist also (4*200)/2 = 400 für den Parameter $102 einzutragen.
 
 ### Z-Achse aus China
 
