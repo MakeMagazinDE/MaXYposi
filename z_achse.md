@@ -8,7 +8,11 @@ Maker Media GmbH und c't, Heise Zeitschriften Verlag
 
 ### Plan und Stückliste Z-Achse
 
-Für die Ausführung der Z-Achse gibt es zwei Alternativen: Die erste besteht aus einer SLW-1040 von Igus mit 50 bis 100 mm Hub (je nach Bedarf) und einem selbstgebauten Motor-Adapter. Dieser besteht aus einem 74 mm langen Alu-Rechteckprofil 40 x 60 mm, das nach Plan "igus-portal_Z-Achse_Maße.pdf" gebohrt wird. Im Prinzip wäre auch ein 40x40-Profil geeignet, dann wird es für die Befestigungsschrauben des Motors aber schon etwas eng.
+Für die Ausführung der Z-Achse gibt es mehrere Alternativen: Die einfachste, aber auch teuerste ist eine komplett mit Motor fertig aufgebaute Igus-Linearführung, die man sich [online konfigurieren kann](http://www.igus.de/wpck/7357/DryLin_E_Overview).
+
+Preiswerter wird es, wenn man einen eigenen (billigen) Schrittmotor verwendet und ihn selbst an die manuelle Igus-Linearführung SLW-1040 anpasst. Diese bestellt man sich je nach Bedarf mit 50 bis 100 mm Hub. 
+
+Der Motor-Adapter besteht aus einem 74 mm langen Alu-Rechteckprofil 40 x 60 mm, das nach Plan "igus-portal_Z-Achse_Maße.pdf" gebohrt wird. Im Prinzip wäre auch ein 40x40-Profil geeignet, dann wird es für die Befestigungsschrauben des Motors aber schon etwas eng.
 
 - 1 Linearschlitten SLW-1040, komplett mit Endplatten und Gewindespindel TR10x2
 - 1 Aluminium-Rechteckprofil 40x40 bis 40x60 mm, 74 mm lang, Wandstärke 2 mm
