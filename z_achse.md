@@ -26,17 +26,34 @@ Damit der Motor bündig passt, muss das mittlere Loch mit einem Stufenbohrer auf
 
 ![Picture](https://github.com/heise/MaXYposi/blob/master/z_04.JPG)
 
-Es erleichter die Montage, wenn man die Befestigungslöcher auf beiden Seiten bohrt; damm kann man mit einem Sechskantschlüssel die innenliegenden Schrauben erreichen. Hier haben wir die Wellenkupplung 5/10 mm bereits auf die Motorwelle aufgesetzt.
+Es erleichtert die Montage, wenn man die Befestigungslöcher auf beiden Seiten 
+bohrt; damm kann man mit einem Sechskantschlüssel die innenliegenden Schrauben 
+erreichen. Hier haben wir die Wellenkupplung 5/10 mm bereits auf die Motorwelle 
+aufgesetzt.
 
 ![Picture](https://github.com/heise/MaXYposi/blob/master/z_06.JPG)
 
-Die Igus-Adapterplatte wird mit zwei M5-Schrauben am Motorträger befestigt. Das ist einfacher, als zwei kurze M6-Schrauben für die vorhandenen Gewinde hineinzufummeln - der Bauraum im 40er-Profil ist ja begrenzt. Die fertige Z-Achse wird mit einem stabilen Alu-Winkel am MaXYposi-X-Schlitten befestigt. Es is empfehlenswert, die Konstruktion am oberen Ende noch mit einer Querstrebe abzustützen.
+Die Igus-Adapterplatte wird mit zwei M5-Schrauben am Motorträger befestigt. Das 
+ist einfacher, als zwei kurze M6-Schrauben für die vorhandenen Gewinde 
+hineinzufummeln - der Bauraum im 40er-Profil ist ja begrenzt. 
+
+Die fertige Z-Achse wird mit einem stabilen Alu-Winkel am MaXYposi-X-Schlitten 
+befestigt. Es is empfehlenswert, die Konstruktion am oberen Ende noch mit einer 
+Querstrebe abzustützen.
+
+Abschließend muss man noch die Anzahl der Schritte pro Millimeter in den GRBL-
+Defaults eintragen. Die TR10-Spindel hat eine Steigung von 2 mm, bei Viertelschritt-Betrieb der Schrittmotor-Endstufe ist also (4*200)/2 = 400 für den Parameter $102 einzutragen.
 
 ### Z-Achse aus China
 
 ![Picture](https://github.com/heise/MaXYposi/blob/master/z_china_k.JPG)
 
-Die deutlich bequemere und billigere Variante ist eine kleine Z-Achse aus chinesischer Fertigung, die wir vor kurzem entdeckten und die jetzt von verschiedenen Händlern auf ebay angeboten wird (Bild). Ein passender Schrittmotor ist bereits montiert. Einschließlich Versand kostet sie um 50 Euro. Hierfür benötigen Sie nur stabile Befestigungswinkel und zur Aufnahme des Spindelmotors einen Halter für 20-mm-Stahlwellen (diverse CNC-Shops).
+Die deutlich bequemere und billigere Variante ist eine kleine Z-Achse aus 
+chinesischer Fertigung, die wir vor kurzem entdeckten und die jetzt von 
+verschiedenen Händlern auf ebay angeboten wird (Bild). Ein passender 
+Schrittmotor ist bereits montiert. Einschließlich Versand kostet sie um 50 Euro. 
+Hierfür benötigen Sie nur stabile Befestigungswinkel und zur Aufnahme des 
+Spindelmotors einen Halter für 20-mm-Stahlwellen (diverse CNC-Shops).
 
 Die Konstruktion erscheint uns ausreichend stabil, das Chassis besteht aus 3 mm starkem Edelstahl. Auf kleine Ungenauigkeiten hinsichtlich der Maßhaltigkeit und Rechtwinkligkeit muss man hierbei hinwegsehen.
 
