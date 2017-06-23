@@ -26,12 +26,12 @@ Ein Alu-Rechteckprofil 40 x 40 mm (Bild) oder 40 x 60 mm wird auf 74 mm abgelän
 
 ![Picture](https://github.com/heise/MaXYposi/blob/master/z_02.JPG)
 
-Damit der Motor bündig passt, muss das mittlere Loch mit einem Stufenbohrer auf 22 mm aufgeweitet werden. Der Motor wird mit vier M3-Innensechskantschrauben (M3 x 8) befestigt.
+Damit der Motor bündig passt, muss das mittlere Loch mit einem Stufenbohrer auf 22 mm aufgeweitet werden. Der Motor wird mit vier M3-Innensechskantschrauben (M3 x 8) befestigt. Wer keinen so großen Stufenbohrer besitzt, kann auch ein paar Unterlegscheiben als Abstandshalter zwischen Motor und Alu-Profil einfügen.
 
 ![Picture](https://github.com/heise/MaXYposi/blob/master/z_04.JPG)
 
 Es erleichtert die Montage, wenn man die Befestigungslöcher auf beiden Seiten 
-bohrt; damm kann man mit einem Sechskantschlüssel die innenliegenden Schrauben 
+bohrt; dann kann man mit einem Sechskantschlüssel die innenliegenden Schrauben 
 erreichen. Hier haben wir die Wellenkupplung 5/10 mm bereits auf die Motorwelle 
 aufgesetzt.
 
