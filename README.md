@@ -100,7 +100,7 @@ Wir haben das Igus WS-10-Profil in der vorgebohrten Ausführung verwendet.
 
 ### Andere CAD-Formate
 
-Die MaXYposi-Entwürfe verlangen für eigene Änderungen das kostenlose, aber nur unter Windows lauffähige DesignSpark Machanical. Unser Leser Wolfgang Maier hat die Oroginal-Zeichnungen freundlicherweise in andere CAD-Formate exportiert, unter anderem als Autocad-Drawing, STL, STP, SKP und IGS. Sie finden diese im 7-Zip-Archiv [MaXYposi-master-MultipleCADExport.7z](https://github.com/heise/MaXYposi/blob/master/MaXYposi-master-MultipleCADExport.7z).
+Die MaXYposi-Entwürfe verlangen für eigene Änderungen das kostenlose, aber nur unter Windows lauffähige DesignSpark Mechanical. Unser Leser Wolfgang Maier hat die Original-Zeichnungen freundlicherweise in andere CAD-Formate exportiert, unter anderem als AutoCAD-Drawing, STL, STP, SKP und IGS. Sie finden diese im 7-Zip-Archiv [MaXYposi-master-MultipleCADExport.7z](https://github.com/heise/MaXYposi/blob/master/MaXYposi-master-MultipleCADExport.7z).
 
 ### Alternatives Design mit SLW-1040
 
