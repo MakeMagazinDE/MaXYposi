@@ -98,6 +98,10 @@ Wir haben das Igus WS-10-Profil in der vorgebohrten Ausführung verwendet.
 - 2 Schrittmotoren Baugröße NEMA17, min. 1,5A Strangstrom, 5 mm Achsdurchmesser, z.B. [ACT 17HS5425](http://www.act-motor.com/product/17hs_en.html)
 - 2 Mikroschalter [Marquardt 1050.0202](https://www.marquardt-shop.com/de/produkte/schalter/schnappschalter/1050/1050.0202.html) oder ähnlich, z.B. von [Reichelt](https://www.reichelt.de/?ACTION=3;ARTICLE=166855)
 
+### Andere CAD-Formate
+
+Unser Leser Wolfgang Maier hat die DesignSPark-Mechanical-Dateien freundlicherweise in andere CAD-Formate exportiert, unter anderem als Autocad-Drawing, STL, STP, SKP und IGS. Sie finden sie im 7-Zip-Archiv [MaXYposi-master-MultipleCADExport.7z](https://github.com/heise/MaXYposi/blob/master/MaXYposi-master-MultipleCADExport.7z).
+
 ### Alternatives Design mit SLW-1040
 
 Das alternative Design **igus-portal-SLW1040_3.rsdoc** verwendet die fertig aufgebauten Lineareinheiten SLW-1040 von igus. Die Spindeln der X-Traverse werden hier von einem Zahnriemen synchron angetrieben (Zahnriemen und Zahnriemenscheiben von Mädler, www.maedler.de). Ein Aufbau mit zwei Schrittmotoren für die Y-Achse anstelle des Synchronriemens bewährte sich weniger, da es nach mehreren Ein- und Ausschaltvorgängen zu Asynchronitäten und damit zum Verkanten der Traverse kommen kann. 
